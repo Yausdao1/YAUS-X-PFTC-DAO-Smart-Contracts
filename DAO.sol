@@ -13,3 +13,4 @@ contract YAUSXPFTCDAO {
     string public constant VERSION = "1.0.0";
     string public constant NOTICE = "Base smart contract for YAUS X PFTC DAO LLC.";
 }
+"Authorized modules may be added, updated, or replaced under governing fiduciary authority.";

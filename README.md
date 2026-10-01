@@ -1,5 +1,5 @@
-# YAUS-X-PFTC-DAO-Smart-Contracts
-Public smart-contract identifier for YAUS X PFTC DAO LLC
+# YAUS X PFTC DAO LLC Smart Contracts
+
 This repository serves as the publicly available smart-contract identifier for YAUS X PFTC DAO LLC.
 
 `DAO.sol` is the base smart contract.
